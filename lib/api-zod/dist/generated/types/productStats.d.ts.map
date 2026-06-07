@@ -1,0 +1,1 @@
+{"version":3,"file":"productStats.d.ts","sourceRoot":"","sources":["../../../src/generated/types/productStats.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,iCAAiC,EAAE,MAAM,qCAAqC,CAAC;AAE7F,MAAM,WAAW,YAAY;IAC3B,aAAa,EAAE,MAAM,CAAC;IACtB,eAAe,EAAE,MAAM,CAAC;IACxB,YAAY,EAAE,MAAM,CAAC;IACrB,YAAY,EAAE,MAAM,CAAC;IACrB,iBAAiB,CAAC,EAAE,iCAAiC,EAAE,CAAC;CACzD"}
